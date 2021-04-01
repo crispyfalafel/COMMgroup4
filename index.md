@@ -63,7 +63,10 @@ To follow this guide's instructions completely, you will need the following:
 ## Typographical Conventions
 
 This guide uses the following typographic conventions:
+
+| :----                                | :----         | :----                                            |
 | Convention                           | Typeface      | Examples                                         |
+| :----                                | :----         | :----                                            |
 | Buttons / Menu Options               | "Button"      | "Mute", "Backgrounds & Filters", "Start Video"   |
 
 <br />
