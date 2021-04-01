@@ -75,7 +75,7 @@ This guide uses the following typographic conventions:
 <br />
 <br />
 
-![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
+![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true =25x25 "Caution"){: style="float: left" }
 >> **Caution**: This a caution icon which indicates to give a warning about the following point.
 
 ---
