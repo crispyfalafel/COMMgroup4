@@ -14,7 +14,6 @@ permalink: /
 The purpose of this document is to help students and instructors become familiar with Zoom's features. The sections in this document will go over basic and some more advanced features.
 
 Zoom is a video conferencing software that allows multiple users to participate in virtual meetings in real-time. There are both paid and free features; however this document will only cover the free features intended to be used for classroom purposes.
-{: .fs-6 .fw-300 }
 
 ---
 
@@ -51,5 +50,38 @@ The latest version of Zoom can be downloaded [here](https://zoom.us/download).
 
 ## Prerequisites
 
-To follow this guide's instructions, you will need the following:
+To follow this guide's instructions completely, you will need the following:
 
+* a Zoom account
+* the latest desktop version of Zoom
+* a stable internet connection
+* a working webcam and microphone
+* sufficient storage space if recording videos
+
+---
+
+## Typographical Conventions
+
+This guide uses the following typographic conventions:
+| Convention                           | Typeface      | Examples                                         |
+| Buttons / Menu Options               | "Button"      | "Mute", "Backgrounds & Filters", "Start Video"   |
+
+<br />
+
+![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: This is a note icon which indicates to take note of the following point.
+<br />
+<br />
+
+![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
+>> **Caution**: This a caution icon which indicates to give a warning about the following point.
+
+---
+
+## Conclusion
+
+Zoom can be a powerful software that can greatly enhance the online learning experience. As more traditional processes become digitalized and done virtually, software like Zoom will continue to become more prevalent.
+
+Let's get started and become familiar with this useful application! We recommend starting with [How to Host a Meeting.](https://crispyfalafel.github.io/zoom-guide/host-a-meeting)
+
+---
