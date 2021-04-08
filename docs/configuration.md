@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Hosting a Meeting
 nav_order: 2
 ---
 
