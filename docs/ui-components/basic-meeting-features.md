@@ -50,6 +50,7 @@ Here is a brief overview of the UI:
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: This button is only available to the host of the meeting.
 <br />
+<br />
 
 
 
@@ -59,6 +60,7 @@ Here is a brief overview of the UI:
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The ability to invite is only available to the host of the meeting.
+<br />
 <br />
 
 
@@ -72,6 +74,7 @@ Here is a brief overview of the UI:
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The ability to change sharing options is only available to the host of the meeting.
 <br />
+<br />
 
 
 
@@ -83,6 +86,7 @@ Here is a brief overview of the UI:
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The host of the meeting is also given the option to end the meeting for all participants.
+<br />
 <br />
 
 ---
