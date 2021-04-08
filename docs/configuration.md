@@ -4,7 +4,7 @@ title: Hosting a Meeting
 nav_order: 2
 ---
 
-# Configuration
+# Hosting a Meeting
 {: .no_toc }
 
 
