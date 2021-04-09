@@ -46,6 +46,7 @@ Here is a brief overview of the UI:
     Clicking the caret symbol (^) allows the user to change their video settings.
 
 6. "Security Button" - A button that allows the user to change the security settings and user permissions of the meeting. 
+
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: This button is only available to the host of the meeting.
@@ -57,6 +58,7 @@ Here is a brief overview of the UI:
 7. "Participants Button" - A button that opens or closes a list of all of the participants in the meeting. 
 
     Clicking the caret symbol (^) allows the user to invite other users.
+
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The ability to invite is only available to the host of the meeting.
@@ -70,6 +72,7 @@ Here is a brief overview of the UI:
 9. "Share Screen Button" - A button that brings up a window that allows the user to select what screen or program they wish to show the other participants. 
 
     Clicking the caret symbol (^) allows the user to change the sharing options of the meeting.
+
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The ability to change sharing options is only available to the host of the meeting.
@@ -83,6 +86,7 @@ Here is a brief overview of the UI:
 11. "Reactions Button" - A button that allows the user to react with an emoticon or raise/lower their hand. 
 
 12. "End Button" - A button that allows the user to leave the meeting.
+
 <br />
 ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 >> **Note**: The host of the meeting is also given the option to end the meeting for all participants.
