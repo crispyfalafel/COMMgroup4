@@ -11,7 +11,11 @@ permalink: docs/utilities
 
 ---
 
-One of the many helpful features of Zoom is screen sharing. Zoom allows users to share their screen to other participants in the call. This feature is useful for virtual presentations, collaborating online, and more.
+One of the many helpful features of Zoom is screen sharing. Zoom allows users to share their screen to other participants in the call. This feature is useful for virtual presentations, collaborating online, and more. On this page you will learn how to: 
+
+* start your own screen share
+* annotate on the presenter's screen
+* request remote control to take control of a presenter's screen
 
 ---
 
@@ -25,36 +29,77 @@ One of the many helpful features of Zoom is screen sharing. Zoom allows users to
 
 ## How to Screenshare
 
-This instruction set shows you how to share your screen and goes over some of the tools and features that are available while screensharing. You will learn how to:
-
-* select a screen to share
-* annotate on the presenter's screen
-* request remote control to take control of a presenter's mouse and keyboard
+This instruction set shows you how to start a screen share and select which screens to share.
 
 ---
-1. While in a Zoom meeting, click the Share Screen button at the bottom of the program.
+1. Host a Zoom meeting or someone else's Zoom meeting as a participant.
+2. Click the "Share Screen" button at the bottom of the program.
 
 
-	You will see a pop-up menu that allows you to select which screen you would like to share. - something about how to enable screenshare
+	If you are not the host of the Zoom meeting, the host may first need to enable screensharing to allow other participants in the meeting to share their screen. 
 	
-2. Click one of the screens shown in the pop-up page to select which screen to share.
+3. Click one of the screens shown in the pop-up page to select which screen to share.
 
 	You can choose to share an entire monitor screen, a specific program, or an empty whiteboard for participants to annotate.
 
-3. If you want participants to also hear audio from your screen share, check the Share Sound box at the bottom left of the menu.
-
-	By default, the Share Sound box is unchecked.
+	If you want participants to also hear audio from your screen share, check the "Share Sound" box at the bottom left of the menu. By default, the "Share Sound" box is unchecked.
 	
 4. Click on the Share button at the bottom right of the pop-up screen to begin screen sharing.
 
 	While screen sharing, you will see a menu bar that contains Zoom meeting controls. By default, this bar will appear at the top of the screen you are sharing.
+	
 5. Click and drag the meeting controls bar to move the menu to another location on your monitor screen.
 
-	Moving the menu can be useful if you have a second monitor,
-6. 
+	Moving the menu can be useful if you have a second monitor or if the menu is currently blocking something on your screen. 
 
+	The menu bar contains all of the basic functions that were previously at the bottom of your Zoom program. This includes the "Mute", "Start Video", "Participants" buttons. In addition, this menu contains buttons for advanced screenshare features that will be covered later on this page.
+
+6. Click the "Stop Screenshare" button on the menu bar once you are done.
+
+	When you want to end the screen share, simply click this button and you will be taken back to the main Zoom meeting interface.
 
 
 ---
 ## Advanced Screenshare Features
+Zoom provides multiple options that allow other participants in the call to interact with a presenter's screen share. This section of the instruction set will cover annotations and the remote control feature, and these instructions assume you are currently viewing another presenter's screen.
 
+---
+### Annotations 
+Annotating is a useful feature that allows the presenter or other participants in the Zoom meeting to draw or type on the presenter's screen. To allow everyone in the meeting to annotate, DO SOMETHING IDK WHERE.
+
+1. Click on the "View Options" button at the top of the screen share, then click "Annotate".
+
+	After clicking this button, you will see an annotation toolbar.
+	
+2. Click the "Draw" button on the annotation toolbar.
+3. Draw whatever you'd like on the presenter's screen by clicking and dragging with your mouse.
+
+	You can change the pen colour by clicking on the "Format" button in the annotation tools. You can also click the "Eraser" button or the "Undo" button to delete your drawings.
+
+4. Click the "Text" button on the annotation toolbar.
+5. Click anywhere on the presenter's screen and type whatever you'd like.
+	
+	Similar to drawing, you can use the "Eraser" or "Undo" button to delete text.
+6. Click the "Eraser" button on the annotation toolbar. 
+7. Click and drag a rectangle on the presenter's screen to erase your text or drawings.
+8. Click the "Mouse" button on the annotation toolbar.
+	
+	The mouse button deactivates any selected annotation tools, allowing you to interact with the Zoom screen normally.
+9. Click the red "X" on the right side of the annotation toolbar.
+	This will close the annotation toolbar and you will return to the regular Zoom interface.
+
+---
+### Remote Control 
+The remote control feature allows a user to take control of the presenter's screen. After requesting remote control of the presenter's screen, you will be able to control their mouse and keyboard virtually.
+
+10. Click on the "View Options" button at the top of the screen share, then click "Request Remote Control".
+	The presenter will receive a notification asking if they want to let you control their screen. They will need to accept your request before you continue on with the next step.
+11. Click anywhere on the screen share window to take control of the presenter's screen.
+
+	You will be able to use your mouse and keyboard to control the presenter's mouse or type on the screen.
+
+12. Click on the "View Options button at the top of the screen share, then click "Give Up Remote Control" to stop the remote control.
+
+You are now comfortable with starting your own screen share and using the Annotation and Remote Control features on other people's screen shares. Taking advantage of these features can give you much more flexibility during your Zoom meetings. 
+
+This is the last instruction set for our guide. Thank you for reading through our guide and we hope this knowledge has helped you.
