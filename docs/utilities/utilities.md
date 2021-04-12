@@ -34,9 +34,6 @@ This instruction set shows you how to start a screen share and select which scre
 ---
 1. Host a Zoom meeting or join someone else's Zoom meeting as a participant.
 2. Click the "Share Screen" button at the bottom of the program.
-
-
-	If you are not the host of the Zoom meeting, the host may first need to enable screensharing to allow other participants in the meeting to share their screen. 
 	
 3. Click one of the screens shown in the pop-up page to select which screen to share.
 
@@ -69,38 +66,38 @@ Zoom provides multiple options that allow other participants in the call to inte
 ### Annotations 
 Annotating is a useful feature that allows the presenter or other participants in the Zoom meeting to draw or type on the presenter's screen. To allow everyone in the meeting to annotate, DO SOMETHING IDK WHERE.
 
-1. Click on the "View Options" button at the top of the screen share, then click "Annotate".
+1. Click on the "View Options" button at the top of the screen share, then click "Annotate" in the dropdown menu.
 
 	After clicking this button, you will see an annotation toolbar.
 	
-2. Click the "Draw" button on the annotation toolbar.
+2. Hover over the "Draw" button on the annotation toolbar and select a brush type to use.
 3. Draw whatever you'd like on the presenter's screen by clicking and dragging with your mouse.
 
-	You can change the pen colour by clicking on the "Format" button in the annotation tools. You can also click the "Eraser" button or the "Undo" button to delete your drawings.
+	You are able to draw lines, shapes, or freehand depending on the option you select in the draw menu. You can also change the drawing colour and line width by hovering over the "Format" button in the annotation tools and choosing an option. You can also use the "Undo" and "Redo" button in the annotation toolbar to undo/redo your drawings.
 
 4. Click the "Text" button on the annotation toolbar.
 5. Click anywhere on the presenter's screen and type whatever you'd like.
 	
-	Similar to drawing, you can use the "Eraser" or "Undo" button to delete text.
+	When you are done typing a line, just click out of the text box to post the text to the screen. Similar to drawing, you can change text colour and size using the Format button. You can also use the "Undo" and "Redo" buttons when neeeded.
 6. Click the "Eraser" button on the annotation toolbar. 
-7. Click and drag a rectangle on the presenter's screen to erase your text or drawings.
+7. Click on some drawings and text to erase them.
 8. Click the "Mouse" button on the annotation toolbar.
 	
 	The mouse button deactivates any selected annotation tools, allowing you to interact with the Zoom screen normally.
 9. Click the red "X" on the right side of the annotation toolbar.
-	This will close the annotation toolbar and you will return to the regular Zoom interface.
+	This will close the annotation toolbar and you will return to the regular screen share interface.
 
 ---
 ### Remote Control 
 The remote control feature allows a user to take control of the presenter's screen. After requesting remote control of the presenter's screen, you will be able to control their mouse and keyboard virtually.
 
-10. Click on the "View Options" button at the top of the screen share, then click "Request Remote Control".
-	The presenter will receive a notification asking if they want to let you control their screen. They will need to accept your request before you continue on with the next step.
+10. Click on the "View Options" button at the top of the screen share, then click "Request Remote Control" in the dropdown menu.
+	This will send a request to the presenter asking if they want to let you control their screen. They will need to accept your request before you continue on with the next step.
 11. Click anywhere on the screen share window to take control of the presenter's screen.
 
 	You will be able to use your mouse and keyboard to control the presenter's mouse or type on the screen.
 
-12. Click on the "View Options button at the top of the screen share, then click "Give Up Remote Control" to stop the remote control.
+12. Click on the "View Options" button at the top of the screen share, then click "Give Up Remote Control" in the dropdown menu to stop the remote control.
 
 You are now comfortable with starting your own screen share and using the Annotation and Remote Control features on other people's screen shares. Taking advantage of these features can give you much more flexibility during your Zoom meetings. 
 
