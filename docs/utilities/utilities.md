@@ -80,23 +80,47 @@ Annotating is a useful feature that allows the presenter or other participants i
 
 1. Click on the "View Options" button at the top of the screen share, then click "Annotate" in the dropdown menu.
 
+![start-annotating](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/start_annotating.png?raw=true "Start annotating")
+
 After clicking this button, you will see an annotation toolbar.
 
+![annotation-toolbar](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_toolbar.png?raw=true "Annotation toolbar")
+
 2. Hover over the "Draw" button on the annotation toolbar and select a brush type to use.
+
+![annotation-draw-menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_draw_menu.png?raw=true "Annotation draw menu")
 3. Draw whatever you'd like on the presenter's screen by clicking and dragging with your mouse.
+
+![annotation-draw-example](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_draw_example.png?raw=true "Annotation draw example")
 
 You are able to draw lines, shapes, or freehand depending on the option you select in the draw menu. You can also change the drawing colour and line width by hovering over the "Format" button in the annotation tools and choosing an option. You can also use the "Undo" and "Redo" button in the annotation toolbar to undo/redo your drawings.
 
+![annotation-format-menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_format_menu.png?raw=true "Annotation format menu")
+
 4. Click the "Text" button on the annotation toolbar.
+
+![annotation-text-button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_text_button.png?raw=true "Annotation text button")
+
 5. Click anywhere on the presenter's screen and type whatever you'd like.
 
+
+
 When you are done typing a line, just click out of the text box to post the text to the screen. Similar to drawing, you can change text colour and size using the Format button. You can also use the "Undo" and "Redo" buttons when neeeded.
+
 6. Click the "Eraser" button on the annotation toolbar. 
+
+![annotation-eraser-button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_eraser_button.png?raw=true "Annotation eraser button")
 7. Click on some drawings and text to erase them.
+
 8. Click the "Mouse" button on the annotation toolbar.
 
-The mouse button deactivates any selected annotation tools, allowing you to interact with the Zoom screen normally.
+![annotation-toolbar](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_toolbar.png?raw=true "Annotation toolbar")
+
+The mouse button deactivates any selected annotation tools, allowing you to interact with the Zoom interface normally.
 9. Click the red "X" on the right side of the annotation toolbar.
+
+![annotation-stop](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_stop.png?raw=true "Stop annotating")
+
 This will close the annotation toolbar and you will return to the regular screen share interface.
 
 ---
