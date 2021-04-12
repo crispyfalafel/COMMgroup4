@@ -103,7 +103,7 @@ You are able to draw lines, shapes, or freehand depending on the option you sele
 
 5. Click anywhere on the presenter's screen and type whatever you'd like.
 
-
+![annotation-text-example](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_text_example.png?raw=true "Annotation text example")
 
 When you are done typing a line, just click out of the text box to post the text to the screen. Similar to drawing, you can change text colour and size using the Format button. You can also use the "Undo" and "Redo" buttons when neeeded.
 
@@ -114,7 +114,7 @@ When you are done typing a line, just click out of the text box to post the text
 
 8. Click the "Mouse" button on the annotation toolbar.
 
-![annotation-toolbar](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_toolbar.png?raw=true "Annotation toolbar")
+![annotation-mouse-button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/annotation_mouse_button.png?raw=true "Annotation mouse button")
 
 The mouse button deactivates any selected annotation tools, allowing you to interact with the Zoom interface normally.
 9. Click the red "X" on the right side of the annotation toolbar.
@@ -128,12 +128,24 @@ This will close the annotation toolbar and you will return to the regular screen
 The remote control feature allows a user to take control of the presenter's screen. After requesting remote control of the presenter's screen, you will be able to control their mouse and keyboard virtually.
 
 10. Click on the "View Options" button at the top of the screen share, then click "Request Remote Control" in the dropdown menu.
-This will send a request to the presenter asking if they want to let you control their screen. They will need to accept your request before you continue on with the next step.
+
+![remote-control-start](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/remote_control_start.png?raw=true "Start remote control")
+
+
+![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: This will send a request to the presenter asking if they want to let you control their screen. They will need to accept your request before you continue on with the next step.
+
+![remote-control-request](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/remote_control_request.png?raw=true "Request remote control")
+
 11. Click anywhere on the screen share window to take control of the presenter's screen.
+
+![remote-control-message](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/remote_control_message.png?raw=true "Remote control confirmation message")
 
 You will be able to use your mouse and keyboard to control the presenter's mouse or type on the screen.
 
 12. Click on the "View Options" button at the top of the screen share, then click "Give Up Remote Control" in the dropdown menu to stop the remote control.
+
+![remote-control-stop](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/remote_control_stop.png?raw=true "Stop remote control")
 
 You are now comfortable with starting your own screen share and using the Annotation and Remote Control features on other people's screen shares. Taking advantage of these features can give you much more flexibility during your Zoom meetings. 
 
