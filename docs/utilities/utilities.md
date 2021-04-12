@@ -42,6 +42,7 @@ This instruction set shows you how to start a screen share and select which scre
 	![screen-select-menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screen_select_menu.png?raw=true "Screen select menu")
 
 	You can choose to share an entire monitor screen, a specific program, or an empty whiteboard for participants to annotate.
+	
 	![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
 	>> **Note**: If you want participants to hear audio from your computer, check the "Share Sound" box at the bottom left of the menu. By default, the "Share Sound" box is unchecked.
 	
