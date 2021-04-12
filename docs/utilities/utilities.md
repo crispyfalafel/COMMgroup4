@@ -38,7 +38,6 @@ This instruction set shows you how to start a screen share and select which scre
 	
 	
 3. Click one of the screens shown in the pop-up page to select which screen to share.
-
 	![screen-select-menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screen_select_menu.png?raw=true "Screen select menu")
 
 	You can choose to share an entire monitor screen, a specific program, or an empty whiteboard for participants to annotate.
@@ -51,18 +50,24 @@ This instruction set shows you how to start a screen share and select which scre
 
 	While screen sharing, you will see a bar that that tells you that you are currently screensharing. By default, this bar appears at the top of your screen. When you hover over the text, you will be able to access more Zoom options.
 	
+	![screenshare-bar](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screenshare_bar.png?raw=true "Screen share bar")
+	
 	The menu bar contains all of the basic functions that were previously at the bottom of your Zoom program. This includes the "Mute", "Start Video", "Participants" buttons. In addition, this menu contains buttons for advanced screenshare features that will be covered later on this page.
+	
+	![screenshare-bar-expanded](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screenshare_bar_expanded.png?raw=true "Screen share bar expanded")
 	
 5. Click and drag the green "You are screen sharing" bar to move the menu to another location on your monitor screen.
 
-	Moving the menu can be useful if you have a second monitor or if the menu is currently blocking something on your screen. 
+	![screenshare-bar-moved](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screenshare_bar_moved.png?raw=true "Screen share bar moved")
 
-	
+	Moving the menu can be useful if you have a second monitor or if the menu is currently blocking something on your screen. 
 
 6. Click the "Stop Screenshare" button on the menu bar once you are done.
 
-	When you want to end the screen share, simply click this button and you will be taken back to the main Zoom meeting interface.
+	![screenshare-stop](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screenshare_stop.png?raw=true "Screen share stop")
 
+	When you want to end the screen share, simply click this button and you will be taken back to the main Zoom meeting interface.
+	
 
 ---
 ## Advanced Screenshare Features
