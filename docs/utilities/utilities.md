@@ -34,8 +34,12 @@ This instruction set shows you how to start a screen share and select which scre
 ---
 1. Host a Zoom meeting or join someone else's Zoom meeting as a participant.
 2. Click the "Share Screen" button at the bottom of the program.
+	![screenshare-button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screenshare_button.png?raw=true "Screen share button")
+	
 	
 3. Click one of the screens shown in the pop-up page to select which screen to share.
+
+	![screen-select-menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/screen_select_menu.png?raw=true "Screen select menu")
 
 	You can choose to share an entire monitor screen, a specific program, or an empty whiteboard for participants to annotate.
 
