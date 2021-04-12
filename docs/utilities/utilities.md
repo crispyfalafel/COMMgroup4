@@ -32,7 +32,7 @@ One of the many helpful features of Zoom is screen sharing. Zoom allows users to
 This instruction set shows you how to start a screen share and select which screens to share.
 
 ---
-1. Host a Zoom meeting or someone else's Zoom meeting as a participant.
+1. Host a Zoom meeting or join someone else's Zoom meeting as a participant.
 2. Click the "Share Screen" button at the bottom of the program.
 
 
@@ -42,17 +42,19 @@ This instruction set shows you how to start a screen share and select which scre
 
 	You can choose to share an entire monitor screen, a specific program, or an empty whiteboard for participants to annotate.
 
-	If you want participants to also hear audio from your screen share, check the "Share Sound" box at the bottom left of the menu. By default, the "Share Sound" box is unchecked.
+	If you want participants to hear audio from your computer, check the "Share Sound" box at the bottom left of the menu. By default, the "Share Sound" box is unchecked.
 	
 4. Click on the Share button at the bottom right of the pop-up screen to begin screen sharing.
 
-	While screen sharing, you will see a menu bar that contains Zoom meeting controls. By default, this bar will appear at the top of the screen you are sharing.
+	While screen sharing, you will see a bar that that tells you that you are currently screensharing. By default, this bar appears at the top of your screen. When you hover over the text, you will be able to access more Zoom options.
 	
-5. Click and drag the meeting controls bar to move the menu to another location on your monitor screen.
+	The menu bar contains all of the basic functions that were previously at the bottom of your Zoom program. This includes the "Mute", "Start Video", "Participants" buttons. In addition, this menu contains buttons for advanced screenshare features that will be covered later on this page.
+	
+5. Click and drag the green "You are screen sharing" bar to move the menu to another location on your monitor screen.
 
 	Moving the menu can be useful if you have a second monitor or if the menu is currently blocking something on your screen. 
 
-	The menu bar contains all of the basic functions that were previously at the bottom of your Zoom program. This includes the "Mute", "Start Video", "Participants" buttons. In addition, this menu contains buttons for advanced screenshare features that will be covered later on this page.
+	
 
 6. Click the "Stop Screenshare" button on the menu bar once you are done.
 
