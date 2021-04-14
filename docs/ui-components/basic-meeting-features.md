@@ -149,6 +149,7 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
     ![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
     >> **Caution**: Having this setting unchecked can cause unintentional audio to be heard by participants in the meeting.
 
+
 ### User Profile
 {: .fs-5 }
 
@@ -203,10 +204,6 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 
 How to set up a virtual background and filters for your webcam.
 
-
-### Virtual Backgrounds
-{: .fs-5 }
-
 1. From the "Settings" menu, click the "Background & Filters" tab on the left.
 
     ![Backgrounds Settings](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_settings.png?raw=true "Backgrounds Settings")
@@ -242,5 +239,59 @@ How to set up a virtual background and filters for your webcam.
 ---
 
 ## Chat and Reactions
+
+How to interact within a meeting.
+
+
+### Chat
+{: .fs-5 }
+
+1. When in a meeting, press the "Chat" button to bring up the chat window.
+
+    ![Chat Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_button.png?raw=true "Chat Button")
+
+2. Click inside the chat box where it says "Type message here..." to write your chat message.
+
+    ![Chat Box](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_box.png?raw=true "Chat Box")
+
+3. Click the dropdown menu above the chat box to change who your message can be viewed by.
+
+    ![Chat Whisper](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_whisper.png?raw=true "Chat Whisper")
+
+4. Click the "File" button to send a file to the meeting's participants.
+
+    ![Chat File](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_file.png?raw=true "Chat File")
+
+5. Click the "..." button to view the chat options. Participant chat permissions can be changed from here as well.
+
+    ![Chat Options](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_options.png?raw=true "Chat Options")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: Changing participant chat permissions is only available to the host of the meeting.
+
+6. Click the "Save Chat" button to save a transcript of the chat to a text file.
+
+    ![Save Chat](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/chat_save.png?raw=true "Save Chat")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: The default location the file will be saved is your Documents folder / Zoom / Folder with meeting name, date, and time.
+
+
+### Reactions
+{: .fs-5 }
+
+1. When in a meeting, press the "Reactions" button to bring up the available reactions.
+
+    ![Reactions Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/reactions_button.png?raw=true "Reactions Button")
+
+2. Click on an emoticon to react with it or click on the "Raise Hand" button to get the host's attention.
+
+    ![Reactions](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/reactions.png?raw=true "Reactions")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: The "Raise Hand" button changes to "Lower Hand" after being pressed. Remember to lower your hand after you have been addressed by the host.
 
 ---
