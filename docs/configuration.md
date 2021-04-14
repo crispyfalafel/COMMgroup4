@@ -23,14 +23,14 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-## Setting A Meeting
+## How to Set Up a Zoom Meeting
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Setting a Schedule
+## How to Set Up a Meeting Schedule
 
 ```yaml
 # Enable or disable the site search
