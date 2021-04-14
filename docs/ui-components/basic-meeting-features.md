@@ -295,3 +295,7 @@ How to interact within a meeting.
     >> **Note**: The "Raise Hand" button changes to "Lower Hand" after being pressed. Remember to lower your hand after you have been addressed by the host.
 
 ---
+
+You can now navigate the basic features of a Zoom meeting at this point. We recommend you learn the more advanced features by taking advantage of the [screen sharing feature.](https://crispyfalafel.github.io/zoom-guide/docs/screen-sharing)
+
+---
