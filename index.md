@@ -31,10 +31,8 @@ This guide is for both students and instructors that want to use Zoom for educat
 This guide will provide instructions for the following topics:
 
 * How to Host a Meeting
-* Backgrounds & Filters
+* Basic Meeting Features
 * Screen Sharing
-* Breakout Rooms
-* Recording Videos
 
 ---
 
