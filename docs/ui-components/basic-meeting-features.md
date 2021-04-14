@@ -92,7 +92,7 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 
 
 ## Video
-{: .fs-5 .no_toc }
+{: .fs-5 }
 
 1. From the "Settings" menu, click the "Video tab on the left.
 
@@ -116,7 +116,7 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 
 
 ## Audio
-{: .fs-5 .no_toc }
+{: .fs-5 }
 
 1. From the "Settings" menu, click the "Audio" tab on the left.
 
@@ -151,7 +151,52 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
     >> **Caution**: Having this setting unchecked can cause unintentional audio to be heard by participants in the meeting.
 
 ## User Profile
-{: .fs-5 .no_toc }
+{: .fs-5 }
+
+1. Press the "Participants" button to bring up the list of participants.
+
+    ![Participants](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_participants.png?raw=true "Participants")
+
+2. Click on your own name to reveal a "Mute" button and a "More >" button on the right of your name.
+
+    ![User Options](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_more.png?raw=true "User Options")
+
+3. Click on the "More" button to reveal a dropdown menu.
+
+    ![More Click](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_more_click.png?raw=true "More Click")
+
+
+    ![More Menu](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_more_menu.png?raw=true "More Menu")
+    
+4. Click on the "Rename" button to change your screen name. Click "OK" to save your new name or "Cancel" to undo the change.
+
+    ![Rename Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_rename_button.png?raw=true "Rename Button")
+
+
+    ![Rename Screen](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_rename_screen.png?raw=true "Rename Screen")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: All name changes are reverted after the meeting is over. Sign into Zoom's website and rename your profile to permanently change your screen name.
+
+5. From the "More" button dropdown menu, click on "Edit Profile Picture" to make changes to your profile picture. The current picture can be cropped using the zoom slider and dragging the picture with the mouse. 
+
+    ![Edit Profile Picture Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_edit_profile_pic_button.png?raw=true "Edit Profile Picture Button")
+
+
+    ![Edit Profile Picture Screen](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_edit_profile_pic_screen.png?raw=true "Edit Profile Picture Screen")
+
+6. Click on the "Change Picture" button to select a different image from your files.
+
+    ![Change Picture](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_change_pic.png?raw=true "Change Picture")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: Profile pictures must be less than 2MB. JPG, GIF, and PNG file types are accepted as profile pictures.
+
+7. Click the "Save" button to save all changes or click the "Cancel" button to remove all changes made.
+
+    ![Save and Cancel](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_save_and_cancel.png?raw=true "Save and Cancel")
 
 ---
 
