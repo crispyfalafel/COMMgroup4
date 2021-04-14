@@ -30,7 +30,6 @@ After starting a Zoom meeting, a window will be created and it should look somet
 
 Here is a brief overview of the UI:
 
-
 1. "Meeting Information" - A button that brings up more detailed information about the meeting such as the meeting's ID, host's name, passcode, invite link, your participant ID, whether encryption is enabled, and an option to report the meeting. 
 
 2. "Full Screen Button" - A button that can make the meeting enter or exit full screen mode.
@@ -91,10 +90,10 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 ![Settings](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/settings.png?raw=true "Settings")
 
 
-## Video
+### Video
 {: .fs-5 }
 
-1. From the "Settings" menu, click the "Video tab on the left.
+1. From the "Settings" menu, click the "Video" tab on the left.
 
     ![Video Settings](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/video_settings.png?raw=true "Video Settings")
 
@@ -115,7 +114,7 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
     >> **Caution**: Having this setting unchecked can cause unintentional video to be seen by participants in the meeting.
 
 
-## Audio
+### Audio
 {: .fs-5 }
 
 1. From the "Settings" menu, click the "Audio" tab on the left.
@@ -150,10 +149,10 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
     ![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
     >> **Caution**: Having this setting unchecked can cause unintentional audio to be heard by participants in the meeting.
 
-## User Profile
+### User Profile
 {: .fs-5 }
 
-1. Press the "Participants" button to bring up the list of participants.
+1. When in a meeting, press the "Participants" button to bring up the list of participants.
 
     ![Participants](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/user_participants.png?raw=true "Participants")
 
@@ -201,6 +200,44 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 ---
 
 ## Backgrounds & Filters
+
+How to set up a virtual background and filters for your webcam.
+
+
+### Virtual Backgrounds
+{: .fs-5 }
+
+1. From the "Settings" menu, click the "Background & Filters" tab on the left.
+
+    ![Backgrounds Settings](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_settings.png?raw=true "Backgrounds Settings")
+
+2. Select any of the preset backgrounds to set up a virtual background.
+
+    ![Backgrounds Presets](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_presets.png?raw=true "Backgrounds Presets")
+
+3. Click on the "+" button to reveal a dropdown menu.
+
+    ![Add Virtual Background](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_add_background.png?raw=true "Add Virtual Background")
+
+4. Click on the "Add Image" button to select a virtual background image from your files.
+
+    ![Add Image](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_add_image.png?raw=true "Add Image")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: Images must be less than 5 MB. They must have a minimum dimension of 960px and a maximum dimension of 1920px. A 16:9 aspect ratio is recommended to avoid seeing black bars beside the image. JPG/JPEG, GIF, and 24-bit PNG file types are accepted as virtual background images. 
+
+5. Click on the "Add Video" button to select a virtual background video from your files.
+
+    ![Add Video](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_add_video.png?raw=true "Add Video")
+
+6. Select the "Video Filters" tab to bring up the list of preset video filters that can be applied to your video output.
+
+    ![Backgrounds Filters](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/backgrounds_filters.png?raw=true "Backgrounds Filters")
+
+
+    ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: Videos must have a minimum resolution of 360p and a maximum resolution of 1080p. MP4 and MOV file types are accepted as virtual background videos. There is no limit to the video file size.
 
 ---
 
