@@ -96,7 +96,24 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 
 1. From the "Settings" menu, click the "Video tab on the left.
 
-2. 
+    ![Video Settings](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/video_settings.png?raw=true "Video Settings")
+
+2. Select the device you would like to use as a webcam by clicking on the dropdown menu under the "Camera" section. There are additional options to keep the original ratio and to enable HD.
+
+    ![Video Device](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/video_device.png?raw=true "Video Device")
+
+3. Ensure "Always display participant names on their video" is checked to have an easier time associating names with faces and profile pictures.
+
+    ![Participant Names](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/video_participant_names.png?raw=true "Participant Names")
+
+4. Check mark "Turn off my video when joining meeting" to guarantee that you join all meetings with your webcam off from the beginning.
+
+    ![Automatically Webcam Off](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/video_auto_webcam_off.png?raw=true "Automatically Webcam Off")
+    
+
+    ![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
+    >> **Caution**: Having this setting unchecked can cause unintentional video to be seen by participants in the meeting.
+
 
 ## Audio
 {: .fs-5 .no_toc }
@@ -121,13 +138,17 @@ The "Settings" menu can be found by clicking on the gear icon in the top right c
 
     ![Original Sound](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/audio_original_sound.png?raw=true "Original Sound")
 
-6. Ensure "Automatically join audio by computer when joining a meeting" is check marked to avoid having to manually join audio every meeting.
+6. Ensure "Automatically join audio by computer when joining a meeting" is checked to avoid having to manually join audio every meeting.
 
     ![Automatically Join Audio](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/audio_auto_join.png?raw=true "Automatically Join Audio")
 
 7. Check mark "Mute my microphone when joining a meeting" to guarantee that you join all meetings muted from the beginning.
 
     ![Automatically Mute](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/audio_auto_mute.png?raw=true "Automatically Mute")
+
+
+    ![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
+    >> **Caution**: Having this setting unchecked can cause unintentional audio to be heard by participants in the meeting.
 
 ## User Profile
 {: .fs-5 .no_toc }
