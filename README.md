@@ -13,6 +13,7 @@
 
 ## How it was made
 
+This guide was created by using Zoom ourselves and finding things out through trial and error. Some facts were discovered through our own troubleshooting experiences and other facts were checked through Zoom's official FAQ and documentation. Our combined knowledge of the software and researched information was collected to create this guide. We hope that this guide makes it easier to get started on this platform instead of having to search the internet for answers.
 
 ## Teamwork Process
 
