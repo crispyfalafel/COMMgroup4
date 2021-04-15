@@ -7,7 +7,7 @@ nav_order: 2
 # Hosting a Meeting
 {: .no_toc }
 
-This section will go over how to start a Zoom meeting, and some of the associated features.
+This section will go over how to start a Zoom meeting, as well as some of the associated features.
 
 ## Table of contents
 {: .no_toc .text-delta }
