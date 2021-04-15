@@ -26,7 +26,7 @@ Zoom is a video conferencing software that allows multiple users to participate 
 
 ## Who This Guide is For
 
-This guide is for both students and instructors that want to use Zoom for educational purposes. This guide will provide instructions for people that are new to Zoom and will help to navigate the software's main features. 
+This guide is for both students and instructors that want to use Zoom for educational purposes. The user is assumed to have some basic knowledge on how to operate computers and browse the internet. This guide will provide instructions for people that are new to Zoom and will help to navigate the software's main features. 
 
 This guide will provide instructions for the following topics:
 
