@@ -65,7 +65,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
  
 5. Click Save
 
-![Schedule Save](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleSecurity.PNG?raw=true "ScheduleSave")
+![Schedule Save](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleSave.PNG?raw=true "ScheduleSave")
 
 
 ## Inviting Others to Your Meeting
