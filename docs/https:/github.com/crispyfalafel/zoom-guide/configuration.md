@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 
-This section will go over how to start a Zoom meeting, as well as some of the associated features.
+ This section will go over how to start a Zoom meeting, as well as some of the associated features.
 
 ---
 
@@ -37,11 +37,12 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 4. Click the button that says "Join With Computer Audio".
 
  ![Join Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/joinMeetingWithAudio.PNG?raw=true "JoinMeetingButton")
-
-![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
-    >> **Note**: If you want to automatically enter a meeting everytime with audio, tick the box at the bottom and the click "Join with Audio"
+ 
+ ![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+   
+   >> **Note**: If you want to automatically enter a meeting everytime with audio, tick the box at the bottom and the click "Join with Audio"
   
-5) You should now see the following screen. 
+5. You should now see the following screen. 
 
  ![Zoom Meeting Open](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/zoomMeetingMade.png?raw=true "ZoomMeetingOpen")
 
@@ -85,13 +86,13 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
  >> c) Send email to users you wish to invite as participants.
 
-![Email Link Send](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/sendEmailLink.png?raw=true "EmailLinkSend") 
+ ![Email Link Send](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/sendEmailLink.png?raw=true "EmailLinkSend") 
 
 2. Invite by Copying Link to Meeting.
 
  >> a) Click the "Copy Invite Link Button".
 
-![Copy Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/copyLinkInvitation.PNG?raw=true "CopyInviteParticipantButton")
+ ![Copy Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/copyLinkInvitation.PNG?raw=true "CopyInviteParticipantButton")
 
  >> b) Paste invite link into email or chat to send to participants. 
 
@@ -111,7 +112,7 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 5. Now the meeting can begin.
 
-![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
+ ![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
 
 ## Setting Up Breakout Rooms
 
@@ -131,9 +132,9 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
  >> b) To assign the rooms manually, click the second option and then click the "Assign" button 
 
-![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
+ ![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
 
-![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
+ ![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
 
  >> c) To let users create their own groups, select the third option
 
