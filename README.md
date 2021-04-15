@@ -26,6 +26,8 @@ We created a guide for Zoom because many classes and other meetings are held vir
 
 ## How it was made
 
+This guide was created by using Zoom ourselves and finding things out through trial and error. Some facts were discovered through our own troubleshooting experiences and other facts were checked through Zoom's official FAQ and documentation. Our combined knowledge of the software and researched information was collected to create this guide. We hope that this guide makes it easier to get started on this platform instead of having to search the internet for answers.
+
 
 ## Teamwork Process
 Our process was multi-faceted and sequential. First we wrote the introduction together while gaining knowledge of Markdown. Afterwards we discussed the elements of Zoom that we wanted to showcase and then divided up the work evenly, setting deadlines for when to have work complete. Finally, we completed the glossary as a team. 
