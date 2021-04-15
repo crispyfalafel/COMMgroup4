@@ -10,6 +10,19 @@
 
 ## Guide Content
 
+We created a guide for Zoom because many classes and other meetings are held virtually nowadays. To help people become more comfortable with Zoom, we covered many different features in the guide, including how to: 
+
+* host a meeting
+* set up a meeting schedule
+* create breakout rooms
+* navigate Zoom's meeting interface
+* change audio/video settings
+* add a virtual background and use video filters
+* chat and react during a meeting
+* start a screen share
+* annotate on a screen share
+* use remote control
+
 
 ## How it was made
 
