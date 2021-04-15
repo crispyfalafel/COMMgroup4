@@ -11,8 +11,7 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 ## Table of contents
 {: .no_toc .text-delta }
-
-1. TOC
+* TOC
 {:toc}
 
 ---
