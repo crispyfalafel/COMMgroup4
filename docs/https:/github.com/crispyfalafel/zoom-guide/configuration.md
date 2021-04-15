@@ -26,15 +26,15 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 ![Zoom Home Page](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/OpenZoomHomePage.PNG?raw=true "ZoomHomePage")
  
-2) Click the small downward arrow under the "New Meeting" button.
+2. Click the small downward arrow under the "New Meeting" button.
 
 ![New Meeting Button Arrow](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/newMeetingButtonArrow.PNG?raw=true "NewMeetingButtonArrow")
 
-3) Click the "New Meeting" button.
+3. Click the "New Meeting" button.
 
 ![New Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/newMeetingButton.PNG?raw=true "NewMeetingButton")
 
-4 Click the button that says "Join With Computer Audio".
+4) Click the button that says "Join With Computer Audio".
 
 ![Join Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/joinMeetingWithAudio.PNG?raw=true "JoinMeetingButton")
 
