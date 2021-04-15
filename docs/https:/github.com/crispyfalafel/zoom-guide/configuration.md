@@ -17,7 +17,7 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 ---
 
-## How to Set Up a Zoom Meeting
+## Setting Up a Zoom Meeting
 
 1. Open up your Zoom desktop app and log in so you see this page
 
@@ -42,7 +42,7 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 ![Zoom Meeting Open](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/zoomMeetingMade.png?raw=true "ZoomMeetingOpen")
 
-## How to Set Up a Meeting Schedule
+## Setting Up a Meeting Schedule
 
 1. Go back to your Zoom app Home Screen and click the "Schedule" button
 
@@ -110,7 +110,7 @@ This section will go over how to start a Zoom meeting, as well as some of the as
 
 ![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
 
-## How to Set Up Breakout Rooms
+## Setting Up Breakout Rooms
 
 1. Click the "Breakout Room" button on the bottom bar
 
