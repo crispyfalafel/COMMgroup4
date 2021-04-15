@@ -31,7 +31,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 ![New Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/newMeetingButton.PNG?raw=true "NewMeetingButton")
 
-4. Click the button that says "Join With Computer Audio
+4. Click the button that says "Join With Computer Audio"
 
 ![Join Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/joinMeetingWithAudio.PNG?raw=true "JoinMeetingButton")
 
@@ -44,7 +44,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 ## How to Set Up a Meeting Schedule
 
-1. Go back to your Zoom app Home Screena and click the "Schedule" button
+1. Go back to your Zoom app Home Screen and click the "Schedule" button
 
 ![Schedule Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleButton.PNG?raw=true "ScheduleButton")
 
@@ -61,7 +61,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
 ![Schedule Security](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleSecurity.PNG?raw=true "ScheduleSecurity")
 
 ![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
-    >> **Caution**: If you tick "Waiting Room" you will have to manually allow participants with the link into the meeting.
+    >> **Caution**: If you tick "Waiting Room" you will have to manually allow participants into the meeting.
  
 5. Click Save
 
@@ -84,7 +84,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 ![Email Link Send](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/sendEmailLink.png?raw=true "EmailLinkSend") 
 
-2. Inviting by Copying Link to Meeting
+2. Invite by Copying Link to Meeting
 
 >> a) Click the "Copy Invite Link Button"
 
@@ -102,7 +102,7 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 ![Scheduled Meeting Invitation Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitationButton.PNG?raw=true "ScheduledMeetingInvitationButton")
 
-4. Once the participant has access to the link and enters the meeting, you'll have to let them in from the Waiting Room by clicking the "Admit" button
+4. If the Waiting Room feature is turned on, you'll have to let your participants in manually by clicking the "Admit" button. 
 
 ![Admit to Waiting Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitToWaitingRoom.png?raw=true "AdmitToWaitingRoom") 
 
@@ -114,11 +114,9 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 1. Click the "Breakout Room" button on the bottom bar
 
-
 ![Click Breakout Room Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/clickBreakoutRoomButton.PNG?raw=true "ClickBreakoutRoomButton")
 
 2. Select the number of Breakout rooms you want to create
-
 
 ![Number of Breakout rooms](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/numberOfBreakoutRooms.PNG?raw=true "NumberOfBreakoutRooms")
 
