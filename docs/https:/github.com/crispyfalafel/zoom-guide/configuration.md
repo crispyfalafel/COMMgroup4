@@ -14,10 +14,6 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 1. TOC
 {:toc}
-2. lol
-3. lol
-4. 
-![Caution icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/caution.png?raw=true "Caution"){: style="float: left" }
 
 ---
 
