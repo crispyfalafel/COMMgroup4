@@ -7,9 +7,7 @@ nav_order: 2
 # Hosting a Meeting
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+This section will go over how to start a Zoom meeting, and some of the associated features.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -25,42 +23,35 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ## How to Set Up a Zoom Meeting
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+1. Open up your Zoom desktop app and log in
+
+![Zoom Home Page](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/OpenZoomHomePage.PNG?raw=true "ZoomHomePage")
+ 
+2. Click the small downward arrow under the "New Meeting" button
+
+![New Meeting Button Arrow](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/newMeetingButtonArrow.PNG?raw=true "NewMeetingButtonArrow")
+
+3. Click the "New Meeting" button
+
+![New Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/newMeetingButton.PNG?raw=true "NewMeetingButton")
+
+4. Click the button that says "Join With Computer Audio
+
+![Join Meeting Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/joinMeetingWithAudio.PNG?raw=true "JoinMeetingButton")
+
+![Note icon](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }
+    >> **Note**: If you want to automatically enter a meeting everytime with audio, tick the box at the bottom and the click "Join with Audio"
+  
+5. You should now see the following screen: 
+
+![Zoom Meeting Open](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/zoomMeetingMade.png?raw=true "ZoomMeetingOpen")
 
 ## How to Set Up a Meeting Schedule
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+1. Go back to your Zoom app Home Screena and click the "Schedule" button
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+![Schedule Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleButton.PNG?raw=true "ScheduleButton")
+
 
 ## Inviting Others to Your Meeting
 
