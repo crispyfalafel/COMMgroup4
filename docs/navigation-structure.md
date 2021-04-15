@@ -19,6 +19,8 @@ permalink: docs/glossary
 
 **Resolution**: The number of pixels that is displayed on the screen. Commonly used resolutions are 720p, 1080p, 4K, etc.
 
+**Screen Share**: A feature that lets the user show a specific program or everything on their display screen to the other participants in a meeting.
+
 **Video Filter**: Special effects that can be added to your webcam output.
 
 **Virtual Background**: A background that replaces the background of your webcam output through the use of background removal software or a green screen.
