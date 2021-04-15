@@ -106,13 +106,41 @@ This section will go over how to start a Zoom meeting, and some of the associate
 
 ![Scheduled Meeting Invitation Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitationButton.PNG?raw=true "ScheduledMeetingInvitationButton")
 
-4. Once the participant has access to the link and enters the meeting, you'll have to let them in from the Waiting Room
+4. Once the participant has access to the link and enters the meeting, you'll have to let them in from the Waiting Room by clicking the "Admit" button
 
 ![Admit to Waiting Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitToWaitingRoom.png?raw=true "AdmitToWaitingRoom") 
 
-5. Now the meeting can begin.
+5. Now the meeting can begin!
 
 ![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
 
 ## How to Set Up Breakout Rooms
+
+1. Click the "Breakout Room" button on the bottom bar
+
+
+![Click Breakout Room Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/clickBreakoutRoomButton.PNG?raw=true "ClickBreakoutRoomButton")
+
+2. Select the number of Breakout rooms you want to create
+
+
+![Number of Breakout rooms](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/numberOfBreakoutRooms.PNG?raw=true "NumberOfBreakoutRooms")
+
+3. Assigning Breakout Rooms
+
+>> a) To assign automatically click the first option
+
+![Assign Automatically](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignAutomatically.PNG?raw=true "AssignAutomatically")
+
+>> b) To assign the rooms manually, click the second option and then click the "Assign" button 
+
+![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
+
+![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
+
+>> c) To let users create their own groups, select the third option
+
+4. If you want to add additional Rooms, click the "Add a Room" button
+
+![Add Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/addRoom.PNG?raw=true "AddRoom")
 
