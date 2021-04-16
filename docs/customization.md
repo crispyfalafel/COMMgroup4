@@ -7,6 +7,8 @@ permalink: docs/troubleshooting
 
 # Troubleshooting
 
+---
+
 
 | Symptoms                             | Probable Cause      | Action                                         |
 | :----                                | :----               | :----                                          |
