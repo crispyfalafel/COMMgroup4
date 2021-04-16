@@ -75,15 +75,15 @@ nav_order: 2
 ## Inviting Others to Your Meeting
 
 1. Inviting other participants while a meeting is ongoing.
-   1a. Click the arrow beside the "Participants" button and then click "Invite".
+    a) Click the arrow beside the "Participants" button and then click "Invite".
 
       ![Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/inviteParticipantButton.PNG?raw=true "InviteParticipantButton")
 
-   1b. Click the email service provider of choice.
+    b) Click the email service provider of choice.
 
       ![Email Invite](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/emailInvite.png?raw=true "EmailInvite") 
 
-   1c. Send email to users you wish to invite as participants.
+    c) Send email to users you wish to invite as participants.
 
       ![Email Link Send](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/sendEmailLink.png?raw=true "EmailLinkSend") 
 
@@ -143,6 +143,6 @@ nav_order: 2
 
 ## CONCLUSION
 
-   Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the ["Basic Meeting Features" guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
+   Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the [Basic Meeting Features guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
 
 
