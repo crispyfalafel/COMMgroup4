@@ -76,43 +76,43 @@ nav_order: 2
 
 1. Inviting other participants while a meeting is ongoing.
 
- >> a) Click the arrow beside the "Participants" button and then click "Invite".
+      a) Click the arrow beside the "Participants" button and then click "Invite".
 
    ![Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/inviteParticipantButton.PNG?raw=true "InviteParticipantButton")
 
- >> b) Click the email service provider of choice.
+      b) Click the email service provider of choice.
 
    ![Email Invite](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/emailInvite.png?raw=true "EmailInvite") 
 
- >> c) Send email to users you wish to invite as participants.
+      c) Send email to users you wish to invite as participants.
 
    ![Email Link Send](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/sendEmailLink.png?raw=true "EmailLinkSend") 
 
 2. Invite by Copying Link to Meeting.
 
- >> a) Click the "Copy Invite Link Button".
+      a) Click the "Copy Invite Link Button".
 
-   ![Copy Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/copyLinkInvitation.PNG?raw=true "CopyInviteParticipantButton")
+      ![Copy Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/copyLinkInvitation.PNG?raw=true "CopyInviteParticipantButton")
 
- >> b) Paste invite link into email or chat to send to participants. 
+      b) Paste invite link into email or chat to send to participants. 
 
 3. Inviting Others to a Scheduled Meeting.
 
- >> a) Click the "Meetings" button on the top bar.
+      a) Click the "Meetings" button on the top bar.
 
-   ![Scheduled Meeting Invitation](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitation.PNG?raw=true "ScheduledMeetingInvitation")
+      ![Scheduled Meeting Invitation](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitation.PNG?raw=true "ScheduledMeetingInvitation")
 
- >> b) Click the "Copy Invitation" button after which you can paste the information into an email to send to your particpants. 
+      b) Click the "Copy Invitation" button after which you can paste the information into an email to send to your particpants. 
 
-   ![Scheduled Meeting Invitation Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitationButton.PNG?raw=true "ScheduledMeetingInvitationButton")
+      ![Scheduled Meeting Invitation Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/scheduleMeetingInvitationButton.PNG?raw=true "ScheduledMeetingInvitationButton")
 
 4. If the Waiting Room feature is turned on, you'll have to let your participants in manually by clicking the "Admit" button. 
 
-   ![Admit to Waiting Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitToWaitingRoom.png?raw=true "AdmitToWaitingRoom") 
+      ![Admit to Waiting Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitToWaitingRoom.png?raw=true "AdmitToWaitingRoom") 
 
 5. Now the meeting can begin.
 
-   ![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
+      ![Admitted](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/admitted.png?raw=true "Admitted") 
 
 ## Setting Up Breakout Rooms
 
@@ -126,17 +126,17 @@ nav_order: 2
 
 3. Assigning Breakout Rooms.
 
- >> a) To assign automatically click the first option
+      a) To assign automatically click the first option
 
-   ![Assign Automatically](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignAutomatically.PNG?raw=true "AssignAutomatically")
+      ![Assign Automatically](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignAutomatically.PNG?raw=true "AssignAutomatically")
 
- >> b) To assign the rooms manually, click the second option and then click the "Assign" button 
+      b) To assign the rooms manually, click the second option and then click the "Assign" button 
 
-   ![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
+      ![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
 
-   ![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
+      ![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
 
-  >> c) To let users create their own groups, select the third option
+      c) To let users create their own groups, select the third option
 
 4. If you want to add additional Rooms, click the "Add a Room" button.
 
@@ -144,6 +144,6 @@ nav_order: 2
 
 ## CONCLUSION
 
-Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the ["Basic Meeting Features" guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
+   Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the ["Basic Meeting Features" guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
 
 
