@@ -75,6 +75,7 @@ nav_order: 2
 ## Inviting Others to Your Meeting
 
 1. Inviting other participants while a meeting is ongoing.
+    
     a) Click the arrow beside the "Participants" button and then click "Invite".
 
       ![Invite Participant Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/inviteParticipantButton.PNG?raw=true "InviteParticipantButton")
