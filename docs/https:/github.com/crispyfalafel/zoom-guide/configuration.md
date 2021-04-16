@@ -134,11 +134,16 @@ nav_order: 2
 
    ![Assign Manually](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignManually.PNG?raw=true "AssignManually")
 
- ![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
+   ![Assign Button](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/assignButton.PNG?raw=true "AssignButton")
 
- >> c) To let users create their own groups, select the third option
+  >> c) To let users create their own groups, select the third option
 
 4. If you want to add additional Rooms, click the "Add a Room" button.
 
- ![Add Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/addRoom.PNG?raw=true "AddRoom")
+      ![Add Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/addRoom.PNG?raw=true "AddRoom")
+
+## CONCLUSION
+
+Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the ["Basic Meeting Features" guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
+
 
