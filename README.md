@@ -26,7 +26,21 @@ We created a guide for Zoom because many classes and other meetings are held vir
 
 ## How it was made
 
-This guide was created by using Zoom ourselves and finding things out through trial and error. Some facts were discovered through our own troubleshooting experiences and other facts were checked through Zoom's official FAQ and documentation. Our combined knowledge of the software and researched information was collected to create this guide. We hope that this guide makes it easier to get started on this platform instead of having to search the internet for answers. Markdown files were used with GitHub pages to build the site the guide is hosted on. Visual Studio Code was used to create some of the markdown files. The files were also edited directly through GitHub.
+### Information sources
+
+This guide was created by using Zoom ourselves and finding things out through trial and error. Some facts were discovered through our own troubleshooting experiences and other facts were checked through Zoom's official FAQ and documentation. Our combined knowledge of the software and researched information was collected to create this guide. We hope that this guide makes it easier to get started on this platform instead of having to search the internet for answers. 
+
+### Using Markdown
+Markdown files were used with GitHub pages to build the site the guide is hosted on. We had to quickly learn the formatting and syntax of Markdown files. Luckily there was a lot of shared syntax with languages like HTML and CSS, which made it easier to learn.
+
+### Using VS Code
+Visual Studio Code was used to create some of the markdown files. This was the main software used to edit files before uploading them to the repository
+
+### Using GitHub
+The files were also edited directly through GitHub. GitHub pages was used to build the site.
+
+### Using a Theme
+A free Jekyll theme was used to create the style of the guide. This allowed us to focus on the content of the guide rather than the styling of it.
 
 
 ## Teamwork Process
