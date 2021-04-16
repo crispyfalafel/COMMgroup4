@@ -141,7 +141,7 @@ nav_order: 2
 
       ![Add Room](https://github.com/crispyfalafel/zoom-guide/blob/gh-pages/assets/images/addRoom.PNG?raw=true "AddRoom")
 
-## CONCLUSION
+## Conclusion
 
    Now you know how to navigate meetings through Zoom. We recommend you learn some more basic Zoom features by taking advantage of the [Basic Meeting Features guide.](https://crispyfalafel.github.io/zoom-guide/basic-features)
 
